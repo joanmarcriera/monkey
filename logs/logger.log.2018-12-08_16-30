@@ -1,0 +1,4 @@
+2018-12-08 16:30:23,923 [INFO](gather.main:<module>:1): Site to gather : https://www.craftcoffee.com
+2018-12-08 16:30:38,704 [INFO](gather.main:<module>:1): Site to gather : https://www.craftcoffee.com
+2018-12-08 16:30:57,339 [INFO](gather.main:<module>:1): hi
+2018-12-08 16:31:14,043 [INFO](gather.main:run_browser:2): Inside run browser
