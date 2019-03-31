@@ -1,5 +1,0 @@
-2018-12-08 15:59:43,014 [INFO](gather.main:<module>:116): Start
-2018-12-08 15:59:43,015 [INFO](gather.main:<module>:124): Site to gather : http://hvper.com
-2018-12-08 15:59:43,015 [INFO](gather.main:run_browser:92): Inside run browser
-2018-12-08 15:59:49,053 [INFO](gather.main:<module>:127): Browser running
-2018-12-08 15:59:49,199 [INFO](gather.main:<module>:129): Before for loop with links : 1098

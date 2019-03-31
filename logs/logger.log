@@ -1,6 +1,0 @@
-2018-12-13 22:40:24,179 [INFO](gather.main:<module>:120): Start
-2018-12-13 22:40:24,180 [INFO](gather.main:<module>:128): Site to gather : https://www.coteca-hamburg.com/en/about-coteca/exhibitors-products/exhibitor-directory-2018/
-2018-12-13 22:40:24,180 [INFO](gather.main:run_browser:96): Inside run browser
-2018-12-13 22:41:53,353 [INFO](gather.main:<module>:120): Start
-2018-12-13 22:41:53,353 [INFO](gather.main:<module>:128): Site to gather : https://www.coteca-hamburg.com/en/about-coteca/exhibitors-products/exhibitor-directory-2018/
-2018-12-13 22:41:53,354 [INFO](gather.main:run_browser:96): Inside run browser
